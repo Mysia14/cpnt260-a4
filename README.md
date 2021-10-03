@@ -9,4 +9,7 @@ Code Review (less than 500 words or point form)
 Outline a bug that you ran into
 How did you fix it?
 What benefits/limits came out of your solution beyond the immediate goal
-Attributions
+Attributions:
+* Formspree https://formspree.io/f/xbjqbkjy 
+* Foodnetwork  https://www.foodnetwork.com/restaurants/photos/50-states--50-scoops 
+* Pexels https://www.pexels.com/pt-br/foto/cones-casquinhas-sobremesa-fresco-5060455/  
