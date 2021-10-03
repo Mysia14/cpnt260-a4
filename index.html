@@ -42,15 +42,29 @@
         </h2>
     </section>
     <div class="gallery">
-        <a href="https://www.foodnetwork.com/restaurants/photos/50-states--50-scoops"> Gallery</a>
+        <a href="https://www.foodnetwork.com/restaurants/photos/50-states--50-scoops"> Flavors Gallery</a>
+        <p>Visit this gallery to find your favorite flavor</p>
     </div>
     <article>
         <div>
             <h3>Contact Us</h3>
         </div>
-        <div>*****inserir form****</div>
+        <div>
+            <p>Please let us know witch flavor you would like to have in our Shop.</p>
+        </div>
     </article>
-
+    <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+        <fieldset id="fs-frm-inputs">
+            <label for="full-name">Full Name</label>
+            <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+            <label for="email-address">Email </label>
+            <input type="email" name="_replyto" id="email-address" placeholder="email@gmail.com" required="">
+            <label for="message">Message:</label>
+            <textarea rows="5" name="message" id="message" placeholder=" One flavor that I would love to have at Ice And Cream Gellato Shop is...." required=""></textarea>
+            <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+        </fieldset>
+        <input type="submit" value="Send">
+    </form>
 </main>
 <footer>&copy;Ice And Cream Gellato Shop 2021</footer>
 
