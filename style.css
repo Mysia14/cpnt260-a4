@@ -117,9 +117,27 @@ article p {
 }
 
 form {
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 10px 10px 5px 10px;
+    background: #d3f1e1;
+    border-radius: 8px;
     color: rgb(20, 109, 75);
 }
 
+fieldset {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(87, 42, 6);
+    text-align: left;
+    padding-right: 10px;
+}
+
+
+}
+input {
+    margin-left: 15px;
+    font-size: 15px;
+}
 footer {
     justify-content: space-between;
     font-family: 'Kalam', cursive;
