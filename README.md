@@ -14,7 +14,7 @@ I also face some issues with github repository and command line. I could figure 
 Anotjer bug that I run into this time was to position the logo in the right place and the nav link as well. An issue that I couldnt fix it in assignment 1 (page with the logo issue : https://mysia14.github.io/cnpt-260-a1/), but in this assignment for the logo and anv link are in the expected position.
 Last bug was the not showing of thw icon logo and the hero section image. The issues was fixed by switching tje file address fot the link adress.
 
-##### Attributions:
+### Attributions:
 * Icah Vega
 * Formspree https://formspree.io/f/xbjqbkjy 
 * Foodnetwork  https://www.foodnetwork.com/restaurants/photos/50-states--50-scoops 
