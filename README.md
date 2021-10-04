@@ -2,9 +2,12 @@
 
 ## Author Name:Mysia Santana
 
-Links to
-Github Repo
-Github Pages
+Links to:
+
+Github Repo: https://github.com/Mysia14/cpnt260-a4
+
+Github Pages : https://mysia14.github.io/cpnt260-a4/
+
 
 #### Code Review
 
