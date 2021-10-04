@@ -6,7 +6,7 @@ Links to
 Github Repo
 Github Pages
 ----------------------------------------------------------------------------------------------------------------
-### Code Review
+#### Code Review
 
 I had trouble aligning the images properly in the form/fieldset box. I read documentation from W3Schools and the MDN in an attempt to overcome the problem. 
 I was also unable to get the image to display on the github pages site, I am unsure of why this is.
@@ -14,10 +14,10 @@ I also face some issues with github repository and command line. I could figure 
 Anotjer bug that I run into this time was to position the logo in the right place and the nav link as well. An issue that I couldnt fix it in assignment 1 (page with the logo issue : https://mysia14.github.io/cnpt-260-a1/), but in this assignment for the logo and anv link are in the expected position.
 Last bug was the not showing of thw icon logo and the hero section image. The issues was fixed by switching tje file address fot the link adress.
 ------------------------------------------------------------------------------------------------------------
-### Attributions:
+##### Attributions:
 * Icah Vega
 * Formspree https://formspree.io/f/xbjqbkjy 
 * Foodnetwork  https://www.foodnetwork.com/restaurants/photos/50-states--50-scoops 
-* icecreamcones.jpg![image](https://user-images.githubusercontent.com/80990809/135787146-334af8e3-5231-4ff2-9c59-2de059db6428.png) from Pexels https://www.pexels.com/pt-br/foto/cones-casquinhas-sobremesa-fresco-5060455/  
+* icecreamcones.jpg![image] from Pexels https://www.pexels.com/pt-br/foto/cones-casquinhas-sobremesa-fresco-5060455/  
 
 
