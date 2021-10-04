@@ -34,7 +34,7 @@ nav a {
 }
 
 .hero-section {
-    background-image: url(/assets/images/icecreamcones.jpg);
+    background-image: url(https://images.pexels.com/photos/5060455/pexels-photo-5060455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     background-size: cover;
     height: 80vh;
     display: flex;
