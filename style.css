@@ -1,6 +1,6 @@
 body {
     height: 100%;
-    background: rgb(238, 247, 235);
+    background: rgb(223, 243, 216);
 }
 
 .logo {
@@ -36,7 +36,7 @@ nav a {
 .hero-section {
     background-image: url(https://images.pexels.com/photos/5060455/pexels-photo-5060455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     background-size: cover;
-    height: 80vh;
+    height: 70vh;
     display: flex;
     flex-wrap: wrap;
 }
@@ -64,10 +64,12 @@ h1 {
 }
 
 h2 {
+    justify-content: column;
     color: rgb(8, 80, 52);
     font-family: 'Kalam', cursive;
     font-size: 15px;
-    margin-left: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
     font-size: 1.25rem;
     line-height: 1.5;
     margin-top: 90px;
